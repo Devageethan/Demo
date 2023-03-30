@@ -4,3 +4,7 @@ about:git
 1:init
 2:add
 3:commit etc...
+
+git is very easy to learn 
+
+it is open source 
