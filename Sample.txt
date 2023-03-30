@@ -1,1 +1,6 @@
 Hello EveryOne
+i have leard more thing today
+about:git
+1:init
+2:add
+3:commit etc...
