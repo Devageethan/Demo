@@ -1,16 +1,25 @@
 Hello EveryOne
 i have leard more thing today
+git is very easy to learn 
+it is used to control the version system 
+
+
 about:git
 1:init
 2:add
 3:commit etc...
+4.push
+5.merge
+6.pull
+7.checkout
+8.branch
+9.cat
 
-git is very easy to learn 
-
-it is open source 
 
 
 
-hello i am deva
 
-learning new things in git 
+
+
+
+
