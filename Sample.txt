@@ -14,7 +14,10 @@ about:git
 7.checkout
 8.branch
 9.cat
-
+10.clone
+11.restore
+12.vc
+13.config
 
 
 
