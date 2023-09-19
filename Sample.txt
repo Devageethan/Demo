@@ -2,6 +2,10 @@ Hello EveryOne
 i have leard more thing today
 git is very easy to learn 
 it is used to control the version system 
+it used to track the codes
+and its used to collabrate to the codes
+git is open source and easy to use
+80% of company are using git
 
 
 about:git
